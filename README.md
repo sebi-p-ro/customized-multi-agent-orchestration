@@ -49,7 +49,7 @@ Built by a non-programmer using AI. If I can do it, so can you.
 
 ```powershell
 # 1. Clone GODMODE
-git clone https://github.com/neuron-one/GODMODE.git
+git clone https://github.com/sebi-p-ro/GODMODE.git
 cd GODMODE
 
 # 2. Back up your existing config (if any)
@@ -91,7 +91,7 @@ npm install -g @google/gemini-cli
 
 ```bash
 # 1. Clone GODMODE
-git clone https://github.com/neuron-one/GODMODE.git
+git clone https://github.com/sebi-p-ro/GODMODE.git
 cd GODMODE
 
 # 2. Back up your existing config (if any)
@@ -298,6 +298,6 @@ MIT License — use it however you want.
 
 ## Author
 
-Built by [neuron-one](https://github.com/neuron-one) — a solo non-programmer who builds real products entirely with AI. No CS degree. No dev team. Just one person and an AI army.
+Built by [sebi-p-ro](https://github.com/sebi-p-ro) — a solo non-programmer who builds real products entirely with AI. No CS degree. No dev team. Just one person and an AI army.
 
 *GODMODE is not affiliated with Anthropic, OpenAI, or Google.*
